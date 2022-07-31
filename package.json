@@ -1,0 +1,12 @@
+{
+  "name": "@istanbul/cache",
+  "version": "0.0.1",
+  "description": "Cache Group of Istanbul Framework",
+  "keywords": [
+    "istanbul",
+    "istanbuljs",
+    "cache"
+  ],
+  "author": "Sami Salih İBRAHİMBAŞ",
+  "license": "MIT"
+}
